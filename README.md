@@ -1,8 +1,8 @@
 # How to Reproduce Results
 ## 1. Clone the Repository
 ```
-git clone <your-repo-link>
-cd <repo-folder>
+git clone [<your-repo-link>](https://github.com/SaiVishwa021/MEMBERSHIP-INFERENCE-ATTACK-USING-LIRA-FRAMEWORK/tree/main)
+cd mia_attack.py
 ```
 ## 2. Install Dependencies
 Make sure you have Python ≥ 3.9 and install required libraries:
