@@ -1,7 +1,7 @@
 # How to Reproduce Results
 ## 1. Clone the Repository
 ```
-git clone https://github.com/SaiVishwa021/MEMBERSHIP-INFERENCE-ATTACK-USING-LIRA-FRAMEWORK/tree/main
+git clone https://github.com/SaiVishwa021/MEMBERSHIP-INFERENCE-ATTACK-USING-LIRA-FRAMEWORK.git
 cd mia_attack.py
 ```
 ## 2. Install Dependencies
